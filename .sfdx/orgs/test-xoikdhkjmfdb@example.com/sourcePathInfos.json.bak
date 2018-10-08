@@ -1,0 +1,152 @@
+[
+    [
+        "C:\\Users\\AL2042\\HP_Project\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2042\\HP_Project\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538983953391,
+            "changeTime": 1538983953391,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\HP_Project\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2042\\HP_Project\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538983953391,
+            "changeTime": 1538983953391,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538984360646,
+            "changeTime": 1538984360646,
+            "contentHash": "b83529a79471406ddba075a6206ed1dcab87946a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538983953391,
+            "changeTime": 1538983953391,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538984360646,
+            "changeTime": 1538984360646,
+            "contentHash": "ed16c24849c5b7d19baf368637781f4f2a7fde2b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default\\objects\\DuplicateRecordSet",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default\\objects\\DuplicateRecordSet",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538984360646,
+            "changeTime": 1538984360646,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538984360646,
+            "changeTime": 1538984360646,
+            "contentHash": "8143ce9a688f033624c8b29f5675c61407d0c940",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\Email__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 291,
+            "modifiedTime": 1538984360646,
+            "changeTime": 1538984360646,
+            "contentHash": "77586d494f8108dbb67bce4ee159d541ff959033",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\Phone__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2042\\HP_Project\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 264,
+            "modifiedTime": 1538984360646,
+            "changeTime": 1538984360646,
+            "contentHash": "e4b132abe0188bc852e02dd6ff8367039e87e681",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\HP_Project",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2042\\HP_Project",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538984073736,
+            "changeTime": 1538984073736,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
